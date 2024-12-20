@@ -1,5 +1,3 @@
-[Macbook-Air--ij0m5mys713dtd.webm](https://github.com/user-attachments/assets/326d97a5-7580-43d6-9035-74ca11ac9fe6)# Website Slider
-
 Selamat datang di proyek **Website Slider**! Repositori ini berisi kode untuk membuat website sederhana dengan fitur slider gambar yang responsif.
 
 ## Fitur
